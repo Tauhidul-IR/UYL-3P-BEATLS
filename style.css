@@ -1,0 +1,36 @@
+.top-head{
+    background-color: #0872b9;
+}
+.top-head-ul{
+    
+}
+.top-head-ul li{
+    list-style: none;
+}
+.fa-brands:hover {
+    color: #353535;
+}
+.banner-section{
+    background-image: url(/images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hire-btn{
+    background-color: #0872b9;
+}
+.line{
+    display: block;
+    width: 112px;
+    height: 2px;
+    background-color: blue;
+    top: 45px;
+    left: 474px;
+}
+.service-line{
+    display: block;
+    width: 112px;
+    height: 2px;
+    background-color: blue;
+    top: 45px;
+    left: 450px;
+}
