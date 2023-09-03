@@ -72,3 +72,72 @@
 .circle-1:hover .circle-3{
     background-color: #5bc5f4;
 }
+
+.single-portfolio{
+    width: 23%;
+}
+.single-port img{
+    width: 100%;
+}
+.team-section
+
+.team{
+
+}
+.single-team{
+    width: 23%;
+}
+.team-img{
+    width: 100%;
+}
+
+
+
+.team-line{
+    display: block;
+    width: 90px;
+    height: 2px;
+    background-color: blue;
+    top: 45px;
+    left: 475px;
+    
+}
+.testimonial-line{
+    display: block;
+    width: 90px;
+    height: 2px;
+    background-color: blue;
+    top: 45px;
+    left: 475px;
+    
+}
+.single-testimonial{
+    width: 48%;
+}
+.single-testi{
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+.testi-img{
+
+}
+.testi-text{
+    background-image: url(/images/testi-bg.jpg);
+}
+
+
+.icon{
+    width: 40px;
+    height: 40px;
+    background-color: #5bc5f4;
+}
+
+.footer-section{
+   
+}
+
+.f-img{
+    width: 100%;
+}
